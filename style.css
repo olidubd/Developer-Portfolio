@@ -19,5 +19,6 @@ section {
 }
 
 .half-width image {
-    width: 01%;
+    width: 100%;
+}
 }
